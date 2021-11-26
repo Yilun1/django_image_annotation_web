@@ -1,0 +1,50 @@
+This is a tutorial on how to use the online annotation tool in this project
+
+the tool uses polygons for detection results and text in a rectangle for recognition results
+
+"click" and "drag" is the basic mouse operations in this tool
+"drag" means keep pressing left mouse button and moving the mouse
+
+create new polygons and rectangles:
+click to create new vertex
+press "T" to switch from polygon vertex to rectangle vertex
+press "F" to link three or more polygon vertexes and create a polygon
+after creating two rectangle vertexes on a diagonal, the rectangle is automatically created
+
+add vertexes to existing polygon:
+click the interior of a polygon
+do not move the mouse while clicking in case you drag it instead of adding vertexes
+then click to add vertexes to the polygon
+press "A" to quit this operation
+
+delete a polygon or rectangle:
+click on any vertex of a polygon or rectangle
+after clicking, press "E" to delete it
+
+drag a rectangle or polygon, or a single vertex:
+press the left mouse button on a vertex, then keep pressing and move the mouse to drag it
+press the right mouse button on the interior of a polygon, then keep pressing and move the mouse
+
+add text recognition results to the rectangle:
+click(don't drag) the interior of a rectangle and the input box get focus
+press enter after typing the text, the text will appear inside the rectangle
+
+set up a 1-1 relationship of rectangle and polygon:
+this operation is to specify which text  belongs to which polygon
+click the interior of a rectangle and then click the interior of a polygon
+if all existing polygons already have recognition results
+then click the interior of a rectangle again to end this operation
+
+use the automatic detection algorithm:
+before manual annotation, click the pre-detect button
+wait for some time, the result will appear on canvas
+then you can manually edit the annotation made by the algorithm
+
+save the result:
+click the save button, the result will be downloaded as two files
+one is a text file containing the detection results in polygon area and text recognition results in  
+one is an image converted from the canvas
+
+download the tutorial:
+click the tutorial button, this text file will be downloaded
+
