@@ -4,19 +4,25 @@
 Basic description:
 
 this is a student project of a simple scene character annotation website，
+
 it can also be used in other image annotation tasks，
+
 it features a file manager, an annotation tool and a detection algorithm(only for detecting scene characters)
 
 Image annotation tool:
 
 the code of the js image annotation tool is in the canvas_modify_multifiles.html，
+
 because I only used var instead of let or const, there are warnings but it works fine，
+
 as for how to use the tool, please refer to the demo video and the tutorial text file  
 
 How to run:
 
 read the readme_how_to_build text file to run the code. the code can also be deployed on server. 
+
 if use the detection algorithm please download it from the link below and create a /east_path folder，
+
 then put the model in the folder
 
 Acknowledgement:
