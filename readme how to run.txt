@@ -7,15 +7,18 @@ install node.js
 python3.6+
 
 **install the following dependencies for the website:**
+
 Django
 djangorestframework
 django-webpack-loader
 django-cors-headers
 
 **dependencies of the EAST detection algorithm:**
+
 opencv（use pip install opencv-python） pytorch numpy pillow
 
 **go to the folder of the project, run the following command**
+
 npm install
 npm run build
 python manage.py migrate
@@ -24,6 +27,7 @@ python manage.py runserver
 run the website at localhost: http://127.0.0.1:8000
 
 **deploy it on a server**
+
 change the "DEBUG" and "ALLOWED HOSTS" in the settings.py
 change the axios default url in main.js
 change all the "127.0.0.1:8000" to server url in the canvas_modify_multifiles.html 
