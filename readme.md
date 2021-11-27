@@ -20,7 +20,9 @@ because I only used var instead of let or const, there are warnings but it works
 
 as for how to use the tool, please refer to the **demo video** and **the tutorial text file**
 
-for convience I put all my js code of annotation tool in one html file so github detect the main programming language as html
+for convience I put all my js code of annotation tool in one html file
+
+github detect the main programming language as html but actually it's mainly javascript
 
 **How to run:**
 
