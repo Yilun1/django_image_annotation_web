@@ -18,7 +18,9 @@ the code of the js image annotation tool is in the canvas_modify_multifiles.html
 
 because I only used var instead of let or const, there are warnings but it works fine，
 
-as for how to use the tool, please refer to the demo video and the tutorial text file  
+as for how to use the tool, please refer to the demo video and the tutorial text file
+
+I have also put the description of how to use the annotation tool below, it's the same as the tutorial text file
 
 
 **How to run:**
