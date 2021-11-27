@@ -1,4 +1,4 @@
-**! in order to make the functions of this tool simple to understand, I made a demo.mp4 video showing what this website is like **
+**for making the functions of this tool easy to undertand, I made a two-minute demo.mp4 video showing what this website is like**
 
 
 **Basic description:**
