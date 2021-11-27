@@ -18,10 +18,9 @@ the code of the js image annotation tool is in the canvas_modify_multifiles.html
 
 because I only used var instead of let or const, there are warnings but it works fine，
 
-as for how to use the tool, please refer to the demo video and the tutorial text file
+as for how to use the tool, please refer to the **demo video** and **the tutorial text file**
 
-I have also put the description of how to use the annotation tool below, it's the same as the tutorial text file
-
+for convience I put all my js code of annotation tool in one html file so github detect the main programming language as html
 
 **How to run:**
 
@@ -43,7 +42,7 @@ the detection algorithm is from: https://github.com/opencv/opencv/blob/master/sa
 the links of the detection model: https://www.dropbox.com/s/r2ingd0l3zt8hxs/frozen_east_text_detection.tar.gz?dl=1
 
 
-**Basic decription of the workflow: **
+**Basic decription of the workflow:**
 
 
 the user upload images and manage them with file manager，
@@ -58,15 +57,6 @@ the tool supports editable polygon annotation for detection results，
 
 the recognition results are put in a rectangle to decide its position and size
 
-
-**Others:**
-
-
-I found that github has detected most used programming language as Html, 
-
-that's because I put the javascript code of annotation tool directly on the html file for convience
-
-maybe I'll change it in the future 
 
  
 
