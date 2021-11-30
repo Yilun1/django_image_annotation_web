@@ -10,6 +10,7 @@ it can also be used in other image annotation tasks，
 
 it features a file manager, an annotation tool and a detection algorithm(only for detecting scene characters)
 
+please ignore the comments in Chinese, I will replace them with English versions soon
 
 **Image annotation tool:**
 
