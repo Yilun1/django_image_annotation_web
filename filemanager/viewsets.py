@@ -21,7 +21,7 @@ from filemanager.east_detection_model import east_detection, decodeBoundingBoxes
 
 def canvas_image_url_multifiles(request, multiple_image_url):
     image_url_multiple = multiple_image_url
-    return render(request, "canvas_modify_multifiles.html", {"image_url_multiple": json.dumps(image_url_multiple), })
+    return render(request, "filemanager/templates/canvas_modify_multifiles.html", {"image_url_multiple": json.dumps(image_url_multiple), })
 
 #  the EAST detection algorithm
 def east_detect(request):
