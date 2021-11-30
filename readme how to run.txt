@@ -1,4 +1,4 @@
-the js code of the online annotation tool is all in canvas_modify_multifiles.html
+the js code of the online annotation tool is all in filemanager/templates/canvas_modify_multifiles.html
 the annotation tool can't be used by only opening the html file
 it can only be used after building and running the website
 
