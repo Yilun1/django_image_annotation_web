@@ -14,7 +14,7 @@ it features a file manager, an annotation tool and a detection algorithm(only fo
 **Image annotation tool:**
 
 
-the code of the js image annotation tool is in the canvas_modify_multifiles.html，
+the code of the js image annotation tool is in the filemanager/templates/canvas_modify_multifiles.html，
 
 because I only used var instead of let or const, there are warnings but it works fine，
 
